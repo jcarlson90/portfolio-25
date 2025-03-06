@@ -1,13 +1,29 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'brand';
+  src: url('./fonts/BrandStack.otf') format('opentype');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: 'gas';
+  src: url('./fonts/Gasalt-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'rise';
+  src: url('./fonts/RiseofBeautyDemo-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'brillant';
+  src: url('./Fonts/brillant.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'aestera';
+  src: url('./fonts/Aestera.ttf') format('truetype');
+}
+
+/* Apply the font to the body */
+body {
+  font-family: 'brand', sans-serif; /* Change this to any of your defined fonts */
 }
