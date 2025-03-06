@@ -74,7 +74,7 @@ function Home() {
       </div>
       </div>
       <div className="btn-box">
-        <a href="https://docs.google.com/document/d/1XQdIjYtzF6POabkJMkDTZIuueEuRKIo-i-qP9m-ugdo/edit?usp=sharing">
+        <a href="https://docs.google.com/document/d/1Un14FpqpFKFEKMMbYoGE1grHkWoDsufvslLMO10GMug/edit?tab=t.0">
           Hire Me
         </a>
         <a href="mailto:jake.carlson90@gmail.com">Let's Chat</a>
