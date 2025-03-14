@@ -69,7 +69,7 @@ function Home() {
              
             </div>
             
-            <img src={pic} alt="Logo" className="logo2" />
+            <img src={logo} alt="Logo" className="logo2" />
         </div>
         <div className="btn-box">
         <a href="https://docs.google.com/document/d/1Un14FpqpFKFEKMMbYoGE1grHkWoDsufvslLMO10GMug/edit?tab=t.0">
