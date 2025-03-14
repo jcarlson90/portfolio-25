@@ -7,7 +7,7 @@
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 50px;
-    padding-top: 150px;
+    padding-top: 100px;
     min-height: 100vh; /* Ensure it takes full height of the viewport */
     display: flex;
     flex-direction: column;
@@ -25,7 +25,7 @@
     align-items: center;
     justify-content: center;
     gap: 20px; /* Space between items */
-    padding: 40px;
+    padding: 20px;
     font-size: 20px;
     font-weight: 700;
     font-family: 'Oswald';
@@ -67,12 +67,12 @@
   }
   
   .projects-container h1 {
-    font-size: 40px;
+    font-size: 50px;
     margin-bottom: 10px;
   }
   
   .projects-container p {
-    font-size: 25px;
+    font-size: 21px;
     margin-bottom: 10px;
   }
   

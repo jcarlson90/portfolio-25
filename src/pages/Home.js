@@ -27,7 +27,7 @@ function Home() {
         </nav>
       </header>
       <div>
-      <div className="container">
+      
         <div className="home">
         <div className="animated-background"></div>
       {/* <h1 className="welcome">Welcome to My Portfolio</h1> */}
@@ -71,13 +71,12 @@ function Home() {
             
             <img src={pic} alt="Logo" className="logo2" />
         </div>
-      </div>
-      </div>
-      <div className="btn-box">
+        <div className="btn-box">
         <a href="https://docs.google.com/document/d/1Un14FpqpFKFEKMMbYoGE1grHkWoDsufvslLMO10GMug/edit?tab=t.0">
           Hire Me
         </a>
         <a href="mailto:jake.carlson90@gmail.com">Let's Chat</a>
+      </div>
       </div>
       <div className="home-sci">
         <a href="https://www.linkedin.com/in/jcarlson90/">

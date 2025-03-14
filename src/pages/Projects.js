@@ -41,7 +41,7 @@ const projects = [
   {
     id: 5,
     title: "⚡Funny Sound Board⚡",
-    description: "Simple sound board with funny sounds from YouTube.",
+    description: "Simple sound board with funny sounds.",
     image: project5,
     link: "https://github.com/jcarlson90/funny-sounds",
   },
